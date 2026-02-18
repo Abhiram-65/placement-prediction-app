@@ -1,0 +1,21 @@
+{
+    "project_name": "Placement Probability & Gap Analysis Engine",
+    "domain": "Machine Learning",
+    "type": "Predictive + Prescriptive",
+    "classes": [
+        "Tier_1",
+        "Tier_2",
+        "Mass_Recruiter",
+        "Unplaced"
+    ],
+    "features": [
+        "CGPA",
+        "Backlogs",
+        "Coding_Rating",
+        "Aptitude_Score",
+        "Internship_Count"
+    ],
+    "primary_model": "Decision Tree",
+    "evaluation_metric": "Recall",
+    "gap_analysis": true
+}
